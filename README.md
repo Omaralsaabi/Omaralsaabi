@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently **a Data Scientist intern**
 
-- 🌱 I’m currently learning **Machine/Deep Learning, Data Science, Computer Vision and NLP**
+- 🌱 I’m currently learning **Machine, Deep Learning, Computer Vision and NLP**
 
 - 👯 I’m looking to collaborate on **projects related to the above mentioned fields**
 
