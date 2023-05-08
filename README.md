@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Omar Alsaabi</h1>
 <h3 align="center">A Data Scientist who is passionate about machine learning and everything related to data.</h3>
 
-- 🔭 I’m currently **a Data Scientist intern**
+- 🔭 I’m currently **a Data Scientist**
 
-- 🌱 I’m currently learning **Machine, Deep Learning, Computer Vision and NLP**
+- 🌱 I’m currently learning **Transformers and LLM**
 
 - 👯 I’m looking to collaborate on **projects related to the above mentioned fields**
 
-- 🤝 I’m looking for **an oppurtunity as a Jr.Data scientist or a Jr.Machine Learning engineer**
+- 🤝 I’m looking for **an oppurtunity as a Data Scientist or a Machine Learning Engineer**
 
-- 💬 Ask me about **anything I would love to help and learn**
+- 💬 Ask me about **Anything I would love to help and learn**
 
 - 📫 How to reach me **prof.omaralsaabi@gmail.com**
 
