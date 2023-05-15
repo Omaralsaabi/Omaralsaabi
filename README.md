@@ -28,4 +28,4 @@
 
 <h1> 📈 &nbsp;My GitHub History!</h1>
 
-![Snake animation](https://github.com/Omaralsaabi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Omaralsaabi/Omaralsaabi/blob/output/github-contribution-grid-snake.svg)
