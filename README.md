@@ -25,7 +25,3 @@
 
 
 ![Omaralsaabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=omaralsaabi&show_icons=true&theme=radical)
-
-<h1> 📈 &nbsp;My GitHub History!</h1>
-
-![Snake animation](https://github.com/Omaralsaabi/Omaralsaabi/blob/output/github-contribution-grid-snake.svg)
