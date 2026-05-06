@@ -1,6 +1,6 @@
 <h1 align="center">Omar Alsaabi</h1>
 <h3 align="center">
-AI Engineer | Research-Oriented AI Scientist | Arabic Language AI
+Applied AI/ML Scientist | Research-Oriented AI Scientist | Arabic Language AI
 </h3>
 
 <p align="center">
